@@ -181,8 +181,12 @@ div.keigakomi{padding-top: 0.5em;
 
 
 /* inline objects */
-.dogyo-midashi { display:inline;}
-.mado-midashi { display:inline;}
+.dogyo-o-midashi { display:inline;}
+.dogyo-naka-midashi { display:inline;}
+.dogyo-ko-midashi { display:inline;}
+.mado-o-midashi { display:inline;}
+.mado-naka-midashi { display:inline;}
+.mado-ko-midashi { display:inline;}
 
 /* headings */
 
@@ -195,4 +199,4 @@ h5 { font-size: medium; margin: 0%;}
 
 /* dynamic contents using javascript */
 .contents_invisible { display:none }
-.contents_visible   { display:block; margin-left:2em } 
+.contents_visible   { display:block; margin-left:3em; text-indent: -1em }

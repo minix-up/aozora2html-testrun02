@@ -12,7 +12,7 @@
 
 m”nF“ü—ÍŽÒ’@Žå‚ÉŠOŽš‚Ìà–¾‚âA–T“_‚ÌˆÊ’u‚ÌŽw’è
 @@@i”Žš‚ÍAJIS X 0213‚Ì–Ê‹æ“_”Ô†A‚Ü‚½‚Í’ê–{‚Ìƒy[ƒW‚Æs”j
-i—áj¦m”u‚Ä‚Ö‚ñ{—òvA‘æ3…€1-84-77n
+i—áj¦m”ƒ[ƒ}”Žš1A1-13-21n
 
 @m”cnF•Ô‚è“_
 @i—ájŽ©m”“ñn—‰¤š m”ˆên“Œ“xm”ƒŒnŠCçéP—¢B
@@ -257,6 +257,10 @@ http://www.aozora.gr.jp/accent_separation.html
 
 œŒ©o‚µ
 
+“Æs‚Ð‚Æt‚èQs‚Ët‚Ì•Ês‚í‚©t‚êm”u“Æ‚èQ‚Ì•Ê‚êv‚Í‘åŒ©o‚µn
+
+@\\\\\\\\\\
+
 m”‚QŽš‰º‚°nã@æ¶‚ÆŽ„m”uã@æ¶‚ÆŽ„v‚Í‘åŒ©o‚µn
 
 
@@ -274,7 +278,11 @@ http://www.aozora.gr.jp/accent_separation.html
 
 @\\\\\\\\\\
 
-“Æs‚Ð‚Æt‚èQs‚Ët‚Ì•Ês‚í‚©t‚êm”u“Æ‚èQ‚Ì•Ê‚êv‚Í‘åŒ©o‚µn
+m”’†Œ©o‚µn¦m”ƒ[ƒ}”Žš1A1-13-21nm”’†Œ©o‚µI‚í‚èn
+
+@\\\\\\\\\\
+@
+m”’†Œ©o‚µnˆŸ×ˆŸsƒAƒWƒAt‚ÌŒs‚ ‚¯‚Ú‚Ìtm”’†Œ©o‚µI‚í‚èn
 
 @\\\\\\\\\\
 
@@ -304,29 +312,53 @@ http://www.aozora.gr.jp/accent_separation.html
 
 @\\\\\\\\\\
 
-›››››m”u›››››v‚Í“¯sŒ©o‚µn
+›››››m”u›››››v‚Í“¯s’†Œ©o‚µn
+
+›››››m”u›››››v‚Í“¯s‘åŒ©o‚µn
+
+›››››m”u›››››v‚Í“¯s¬Œ©o‚µn
 
 @\\\\\\\\\\
 
-m”“¯sŒ©o‚µn›››››m”“¯sŒ©o‚µI‚í‚èn
+››s‚Ü‚é‚Ü‚étm”u››v‚Í“¯s’†Œ©o‚µn
 
 @\\\\\\\\\\
 
 cŸls‚±‚Ì‚©‚ñ‚ª‚Öt‚ª‚Â‚Ü‚è
-“üåUs‚É‚ä‚¤‚¼‚¤t‚ðŽvs‚¨‚àt‚Ð—§ƒc‚½Œ´ˆös‚°‚ñ‚¢‚ñtm”u“üåUs‚É‚ä‚¤‚¼‚¤t‚ðŽvs‚¨‚àt‚Ð—§ƒc‚½Œ´ˆös‚°‚ñ‚¢‚ñtv‚Í“¯sŒ©o‚µn@‚Å‚ ‚è‚Ü‚µ‚Ä’š“xs‚Ä‚¤‚Çt‘´Žžs‚»‚Ì‚Æ‚«t‚ª–¾Ž¡“ñ\˜Z”N‚ÌŽlŒŽ‚Å¡s‚¢‚Üt‚æ‚èŸÞs‚Ü‚ñt\”NéPs‚Ë‚ñ‚ætˆÈ‘Os‚¢‚º‚ñt‚Ì‚±‚Æ‚ÅŒäÀ‚è¡‚¯‚ê‚Ç‚à¼åU‚ÍšŽ–§‚É½š Žå‹`‚ð›‰s‚µ‚Ä‹‚éš ‚Åc
+“üåUs‚É‚ä‚¤‚¼‚¤t‚ðŽvs‚¨‚àt‚Ð—§ƒc‚½Œ´ˆös‚°‚ñ‚¢‚ñtm”u“üåUs‚É‚ä‚¤‚¼‚¤t‚ðŽvs‚¨‚àt‚Ð—§ƒc‚½Œ´ˆös‚°‚ñ‚¢‚ñtv‚Í“¯s’†Œ©o‚µn@‚Å‚ ‚è‚Ü‚µ‚Ä’š“xs‚Ä‚¤‚Çt‘´Žžs‚»‚Ì‚Æ‚«t‚ª–¾Ž¡“ñ\˜Z”N‚ÌŽlŒŽ‚Å¡s‚¢‚Üt‚æ‚èŸÞs‚Ü‚ñt\”NéPs‚Ë‚ñ‚ætˆÈ‘Os‚¢‚º‚ñt‚Ì‚±‚Æ‚ÅŒäÀ‚è¡‚¯‚ê‚Ç‚à¼åU‚ÍšŽ–§‚É½š Žå‹`‚ð›‰s‚µ‚Ä‹‚éš ‚Åc
 
 @\\\\\\\\\\
 
-›››››m”u›››››v‚Í‘‹Œ©o‚µn
+m”“¯s‘åŒ©o‚µn›››››m”“¯s‘åŒ©o‚µI‚í‚èn
+
+m”“¯s’†Œ©o‚µn›››››m”“¯s’†Œ©o‚µI‚í‚èn
+
+m”“¯s¬Œ©o‚µn›››››m”“¯s¬Œ©o‚µI‚í‚èn
 
 @\\\\\\\\\\
 
-m”‘‹Œ©o‚µn›››››m”‘‹Œ©o‚µI‚í‚èn
+›››››m”u›››››v‚Í‘‹’†Œ©o‚µn
+
+›››››m”u›››››v‚Í‘‹‘åŒ©o‚µn
+
+›››››m”u›››››v‚Í‘‹¬Œ©o‚µn
+
+@\\\\\\\\\\
+
+››s‚Ü‚é‚Ü‚étm”u››v‚Í‘‹’†Œ©o‚µn
 
 @\\\\\\\\\\
 
 c–}“ùŒÜ˜Z’š‚É‚µ‚Ä”gr‚­‚È‚è˜Ò‚è‚¯‚éB
-m”‚PŽš‰º‚°n—´‰¤–¦m”u—´‰¤–¦v‚Í‘‹Œ©o‚µn@‰ãX‚½‚éŠâ–¦ŠC’†‚É™Yo‚·Bˆê•à‚Æ‚µ‚Äã‚ç‚éTê‚É‚ ‚ç‚¸B‰ö¼ŒÜ˜ZŠ”i”Éj–ÎƒZ‚èB–”Ÿ–¦‚æ‚èæÆŽO’šŠu‚ÄA–”ŠC’†ƒjáûX‚½‚éšŽÎágã‚½‚é¬‚¶‚Ü—LB¥‚ð‘¥@—´‰¤“ˆm”u—´‰¤“ˆv‚Í‘‹Œ©o‚µn@‚Æ‰]‚èB¼‚ÌŽ÷˜ZŽµŠ”B‚–}ŒÜ˜ZäBc
+m”‚PŽš‰º‚°n—´‰¤–¦m”u—´‰¤–¦v‚Í‘‹’†Œ©o‚µn@‰ãX‚½‚éŠâ–¦ŠC’†‚É™Yo‚·Bˆê•à‚Æ‚µ‚Äã‚ç‚éTê‚É‚ ‚ç‚¸B‰ö¼ŒÜ˜ZŠ”i”Éj–ÎƒZ‚èB–”Ÿ–¦‚æ‚èæÆŽO’šŠu‚ÄA–”ŠC’†ƒjáûX‚½‚éšŽÎágã‚½‚é¬‚¶‚Ü—LB¥‚ð‘¥@—´‰¤“ˆm”u—´‰¤“ˆv‚Í‘‹’†Œ©o‚µn@‚Æ‰]‚èB¼‚ÌŽ÷˜ZŽµŠ”B‚–}ŒÜ˜ZäBc
+
+@\\\\\\\\\\
+
+m”‘‹‘åŒ©o‚µn›››››m”‘‹‘åŒ©o‚µI‚í‚èn
+
+m”‘‹’†Œ©o‚µn›››››m”‘‹’†Œ©o‚µI‚í‚èn
+
+m”‘‹¬Œ©o‚µn›››››m”‘‹¬Œ©o‚µI‚í‚èn
 
 œŠOŽš
 
@@ -354,8 +386,8 @@ http://www.aozora.gr.jp/accent_separation.html
 
 @\\\\\\\\\\
 
-kSon coeur est un luth suspendu;
-Sito^t qu'on le touche il re'sonne.l
+kSon coeur est un luth suspendu;l
+kSito^t qu'on le touche il re'sonne.l
 u”Þ‚ªS‚ÍŒœs‚©t‚©‚ê‚é”ú”is‚Ñ‚ít‚É‚µ‚ÄA
 G‚é‚ê‚Î‚½‚¿‚Ü‚¿–Â‚è‚Ð‚Ñ‚­v
 
@@ -372,6 +404,16 @@ presqu'ki^lel
 'Je me suis kblesse'el', dit-elle.
 
 'blesske'le'
+
+@\\\\\\\\\\
+
+–@wŽv‘zx”ªZ†u‹óŠÔŠT”O‚Ì•ªÍvk–{‘SW‘æˆêŠªŠŽûlŽQÆB
+
+@\\\\\\\\\\
+
+m“ñ\Î‚ÌkE'tudeln
+
+@\\\\\\\\\\
 
 œŒP“_
 
@@ -396,6 +438,12 @@ presqu'ki^lel
 @\\\\\\\\\\
 
 Ž¢Žž˜`•P–½Œ©‰x‹‹m”iœVjnA‘´™|m”iŽ¢jn‹›Œ©ŽÐ’èŽ’m”iŽxjn‚Æ‚ ‚èB
+
+@\\\\\\\\\\
+
+¥•Ô‚è“_‚ÆŒP“_‘—‚è‰¼–¼‚Ì¬Ý
+
+Ššm”iƒejnm”“ñnŒÃl•nŒðsm”iƒmjn”VŽm”iƒ’jnm”ˆên“fm”iƒejnŽ§‹Y˜m”iƒXjn
 
 œ‹­’²
 
@@ -594,10 +642,6 @@ Which, teaching us, hath this exordium: Nothing from nothing ever yet was born.
 
 ‚¨“’s‚ä‚¤tm”ƒ‹ƒr‚Ìu‚ä‚¤v‚Íƒ}ƒ}n
 
-@\\\\\\\\\\
-
-Â‹ó•¶ŒÉs‚ ‚¨‚¼‚ç‚Ô‚ñ‚±t
-
 ¥ƒ‹ƒr‚Æƒ‹ƒr‚Ì‚æ‚¤‚É•t‚­•¶Žš
 
 Â‹ó•¶ŒÉs‚ ‚¨‚¼‚ç‚Ô‚ñ‚±t
@@ -609,6 +653,12 @@ Which, teaching us, hath this exordium: Nothing from nothing ever yet was born.
 @\\\\\\\\\\
 
 YØs‚µ‚ß‚«‚èt‚ð“¦‚ê‚é‚½‚ß‚ÉAŽsƒ–’Js‚¢‚¿‚ª‚ât‚©‚ç“]Xs‚Ä‚ñ‚Ä‚ñt‚ÆA‹‚ðˆÚ‚µ‚½B
+
+@\\\\\\\\\\
+
+c…”«‚ð’u‚¢‚½¦m”u–Ø{èËvA‘æ3…€1-86-29nŽq‘‹s‚ê‚ñ‚¶‚Ü‚Çt‚Ì‰º‚É‚Íc
+
+‚»‚ê‚ª”Þ‚Ì kE'tudelsƒGƒ`ƒ…[ƒht ‚¾‚Á‚½B
 
 @\\\\\\\\\\
 
@@ -654,6 +704,11 @@ Which, teaching us, hath this exordium: Nothing from nothing ever yet was born.
 
 ‚»‚êˆÈã‚Å‚ ‚éBi‚Tjm”ui‚Tjv‚Ís¶¬‘‚«n
 
+@\\\\\\\\\\
+
+m”s‰E¬‘‚«n¦m”ŠÛ1A1-13-1nm”s‰E¬‘‚«I‚í‚èn
+
+
 ¥ã•t‚«¬•¶ŽšA‰º•t‚«¬•¶Žši‰¡‘g‚Ýj
 
 22m”u2v‚Íã•t‚«¬•¶Žšn
@@ -661,6 +716,10 @@ Which, teaching us, hath this exordium: Nothing from nothing ever yet was born.
 @\\\\\\\\\\
 
 H2m”u2v‚Í‰º•t‚«¬•¶ŽšnO
+
+@\\\\\\\\\\
+
+m”ã•t‚«¬•¶Žšn¦m”ŠÛ1A1-13-1nm”ã•t‚«¬•¶ŽšI‚í‚èn
 
 ¥Žš‹l‚ß
 
@@ -764,6 +823,10 @@ Mors ubi dira fuit vita salusque patent.
 
 ‚»‚ê‚©‚ç‚¢‚«‚¨‚¢‚æ‚­‘‚«‚Ü‚­‚Á‚½Bm”‰¡‘g‚ÝnZenzo Kasai, one of the most unfortunate Japanese novelists at present, said,gm”‰¡‘g‚ÝI‚í‚èn\\Š‹¼s‚©‚³‚¢t‘P‘ ‚ÍA‚»‚Ì‚±‚ë‚Ü‚¾¶‚«‚Ä‚¢‚½B
 
+@\\\\\\\\\\
+
+c‚¾‚Ü‚Á‚Äƒ{ƒIƒ‹ƒh‚É‘‚«‚È‚®‚Á‚½•¶Žš‚ª What is Real Happiness? ‚Å‚ ‚Á‚½Bc
+
 ¥•¶ŽšƒTƒCƒY
 
 m”‚RŽš‰º‚°n‰Î¯‚Ì—m”u‰Î¯‚Ì—v‚Í‘åŒ©o‚µn
@@ -817,30 +880,6 @@ Mors ubi dira fuit vita salusque patent.
 Â‹óm”uÂ‹óv‚Í‚S’iŠK¬‚³‚È•¶Žšn
 
 Â‹óm”uÂ‹óv‚Í‚T’iŠK¬‚³‚È•¶Žšn
-
-@\\\\\\\\\\
-
-m”‚P’iŠK‘å‚«‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”‘å‚«‚È•¶ŽšI‚í‚èn
-
-m”‚Q’iŠK‘å‚«‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”‘å‚«‚È•¶ŽšI‚í‚èn
-
-m”‚R’iŠK‘å‚«‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”‘å‚«‚È•¶ŽšI‚í‚èn
-
-m”‚S’iŠK‘å‚«‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”‘å‚«‚È•¶ŽšI‚í‚èn
-
-m”‚T’iŠK‘å‚«‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”‘å‚«‚È•¶ŽšI‚í‚èn
-
-@\\\\\\\\\\
-
-m”‚P’iŠK¬‚³‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”¬‚³‚È•¶ŽšI‚í‚èn
-
-m”‚Q’iŠK¬‚³‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”¬‚³‚È•¶ŽšI‚í‚èn
-
-m”‚R’iŠK¬‚³‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”¬‚³‚È•¶ŽšI‚í‚èn
-
-m”‚S’iŠK¬‚³‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”¬‚³‚È•¶ŽšI‚í‚èn
-
-m”‚T’iŠK¬‚³‚È•¶ŽšnÂ‹ó•¶ŒÉ‚Å‚ ‚Á‚ÄÓ‹ó•¶ŒÉ‚Å‚Í‚È‚¢Bm”¬‚³‚È•¶ŽšI‚í‚èn
 
 œ’‹L‚Ìd•¡
 
@@ -896,5 +935,6 @@ Mors ubi dira fuit vita salusque patent.
 “ü—ÍFÂ‹ó•¶ŒÉ
 Z³FÂ‹ó•¶ŒÉ
 2010”N3ŒŽ30“úì¬
+2010”N6ŒŽ26“úC³
 Â‹ó•¶ŒÉì¬ƒtƒ@ƒCƒ‹F
 ‚±‚Ìƒtƒ@ƒCƒ‹‚ÍAƒCƒ“ƒ^[ƒlƒbƒg‚Ì}‘ŠÙAÂ‹ó•¶ŒÉihttp://www.aozora.gr.jp/j‚Åì‚ç‚ê‚Ü‚µ‚½B“ü—ÍAZ³A§ì‚É‚ ‚½‚Á‚½‚Ì‚ÍAƒ{ƒ‰ƒ“ƒeƒBƒA‚ÌŠF‚³‚ñ‚Å‚·B

@@ -1,65 +1,91 @@
+function add_blank_node(node){
+    var div = document.createElement("div");
+    div.className = "contents_invisible";
+    
+    var button = document.createElement("span");
+    button.onclick = new Function ("toggle(this)");
+    button.appendChild(document.createTextNode("+"));
+    
+    node.appendChild(div);
+    div.appendChild(button);
+    return div;
+}
+
 function initialize(){
-  var flag = true;
-  var root_level = 2;
-  var root = document.getElementById("contents");
-  var heads = document.getElementsByClassName("midashi_anchor");
-  for (var i = 0, len = heads.length; i < len; i++) {
-    var node = heads[i];
-    var child = node.firstChild;
-    if(child){
-      if(flag){
-        flag = false;
-        var button = document.createElement("span");
-        button.setAttribute("onclick","toggle(this)");
-        button.appendChild(document.createTextNode("+"));
-        root.appendChild(button);
-        root.appendChild(document.createTextNode("–ÚŽŸ"));
-        root.setAttribute("style","");
-      }
-      var level = parseInt(child.tagName[1])
-      var div = document.createElement("div");
-      div.setAttribute("class", "contents_invisible");
-
-      var button = document.createElement("span");
-      button.setAttribute("onclick","toggle(this)");
-      button.appendChild(document.createTextNode("+"));
-
-      var link = document.createElement("a");
-      link.setAttribute("href","#" + node.name);
-      link.appendChild(document.createTextNode(child.textContent));
-
-      div.appendChild(button);
-      div.appendChild(link);
-
-      if (root_level >= level)
-        while (root_level >= level){
-          root = root.parentNode;
-          root_level--;
-      }
-      root.appendChild(div);
-      root = div;
-      root_level = level;   
+    var flag = true;
+    var root_level = 2;
+    var root = $("#contents").get()[0]; //document.getElementById("contents");
+    var heads = $(".midashi_anchor").get(); //document.getElementsByClassName("midashi_anchor");
+    for (var i = 0, len = heads.length; i < len; i++) {
+	var node = heads[i];
+	var child = node.firstChild;
+	if(child){
+	    if(flag){
+		flag = false;
+		root.style.display = 'block';
+		var button = document.createElement("span");
+		button.onclick = new Function ("toggle(this)");
+		button.appendChild(document.createTextNode("+"));
+		root.appendChild(button);
+		root.appendChild(document.createTextNode("–ÚŽŸ"));
+	    }
+	    var level = parseInt(child.tagName.slice(1,2));
+	    
+	    if (root_level >= level)
+		    while (root_level >= level){
+			root = root.parentNode;
+			root_level--;
+		    }
+	    if ((root_level + 1) < level)
+		while ((root_level + 1) < level){
+		    root = add_blank_node(root);
+		    root_level++;
+		}
+	    var div = add_blank_node(root);
+	    var link = document.createElement("a");
+	    link.setAttribute("href","#" + node.name);
+	    var copying = child.firstChild;
+	    link.appendChild(copying.cloneNode(true));
+	    while (copying.nextSibling){
+		copying = copying.nextSibling;
+		if(copying.nodeValue == ""){
+		    alert("whitenode!");
+		}
+		link.appendChild(copying.cloneNode(true));
+	    }	    
+	    div.appendChild(link);
+	    root = div;
+	    root_level = level;
+	}
     }
-  }
 }
 
 function toggle(element){
-  var button;
-  if (element.textContent == "+"){
-   button = "-"
+  if (element.firstChild.nodeValue == "+"){
+   element.firstChild.nodeValue = "-"
   }else{
-   button = "+"
+   element.firstChild.nodeValue = "+"
   }
-  element.removeChild(element.firstChild);
-  element.appendChild(document.createTextNode(button));
   var childs = element.parentNode.childNodes;
-  for (var i = 2, len = childs.length; i < len; i++) {
+  for (var i = 1, len = childs.length; i < len; i++) {
     var node = childs[i]
-    if (typeof(node.setAttribute) == "function"){
-      if (node.getAttribute("class") == "contents_invisible"){
-        node.setAttribute("class","contents_visible")
-      }else if(node.getAttribute("class") == "contents_visible"){
-        node.setAttribute("class","contents_invisible")
+    if (node.className){
+      if (node.className == "contents_invisible"){
+	  node.className = "contents_visible";
+	  var c = node.childNodes[1];
+	  if (c.tagName == "A"){
+	      false;
+	  }else{
+	      toggle(node.childNodes[0]);
+	  }
+      }else if(node.className == "contents_visible"){
+	  node.className = "contents_invisible";
+	  var c = node.childNodes[1];
+	  if (c.tagName == "A"){
+	      false;
+	  }else{
+	      toggle(node.childNodes[0]);
+	  }
       }
     }
   }
